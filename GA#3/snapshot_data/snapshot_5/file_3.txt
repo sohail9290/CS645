@@ -1,0 +1,2 @@
+This process is repeated until a single Merkle hash root 𝐻# is produced, &
+representing the hash value of the entire snapshot of data. Note that the number of files and their contents may vary from snapshot to snapshot, and the order in which files are hashed is important.

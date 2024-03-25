@@ -1,0 +1,2 @@
+a nested directory structure to simulate a snapshot of contents in a public forum.
+Subdirectories are allowed, each of which may contain other subdirectories along with data files. Make sure that each snapshot represents an updated version of the previous one.

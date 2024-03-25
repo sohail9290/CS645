@@ -1,0 +1,2 @@
+To simplify your implementation, you may make the following shortcuts:
+1. You may use

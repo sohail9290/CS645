@@ -1,0 +1,2 @@
+together with 𝐻" is then hashed to produce 𝐻$, that is 𝐻$ = 𝑎𝑠𝑐𝑜𝑛_h𝑎𝑠h(𝐻", 𝐻$).
+Announce 𝐻$ on Twitter.

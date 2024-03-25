@@ -1,0 +1,2 @@
+You may increase the granularity by allowing to use a shorter time period, such as an hour
+instead of a day, to take snapshots of data.

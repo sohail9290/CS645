@@ -1,0 +1,3 @@
+Use a Merkle hash tree to build a single hash value for all data in a subdirectory. This hash
+value is then considered to be a data item in the subdirectory containing the current
+subdirectory

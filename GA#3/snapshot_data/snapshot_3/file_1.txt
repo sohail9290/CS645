@@ -1,0 +1,2 @@
+3. At the end of Day 2, a snapshot of all contents on the platform is taken again. Data in the
+snapshot is then Merkle-hashed using 𝑎𝑠𝑐𝑜𝑛_h𝑎𝑠h, resulting in a hash value 𝐻# . 𝐻# 

@@ -1,0 +1,1 @@
+a bulletin board or a social network such as FaceBook and TikTok. The strategy is to use a one-way hash 
